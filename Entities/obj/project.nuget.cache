@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "XHH5rZe2SrvwoMxBKQviG1astsJqjas3FhQLcWibfEvOHvjmRJHlRnyc1d16nBViYWjgMk8AO+TuFcy0h0izNQ==",
+  "dgSpecHash": "NcBCDIWIor2km/7MTQJFAP6ah2Nk4LJWMnkLAuyazGFf2Jq74dkr2e2312l2NvfsvGyv4KA3G6ikMxyPmmeRTg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ahmet\\source\\repos\\FinalProject\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Ahmet\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\Ahmet\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\Ahmet\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
+    "C:\\Users\\Ahmet\\.nuget\\packages\\fluentvalidation\\9.5.3\\fluentvalidation.9.5.3.nupkg.sha512",
     "C:\\Users\\Ahmet\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Ahmet\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\Ahmet\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
